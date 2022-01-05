@@ -26,12 +26,14 @@ When all the projects have been validated, all defenses are analyzed by a jury w
 
 ## Projects
 
-- **New Warrior Quest**: A project where I discovered bases about Swift language.
-- **Instagrid**: A simple photo montage app using story board and ImagePicker.
+Here I listed all coded projects I did while this training.
+
+- [**New Warrior Quest**](https://github.com/imick666/NewWarriorQuest): A project where I discovered bases about Swift language.
+- [**Instagrid**](https://github.com/imick666/InstaGrid): A simple photo montage app using story board and ImagePicker.
 - **Count On Me**: A calculator I had to fix and write UnitTests.
-- **Reciplease**: A recipes search tool with API call and coreData usage.
-- **Ultimate Traveller Tool**: A travel app with some fonctionnality I choosed and API call.
-- **Project Asgard**: Personnal project. A Dog breeding manager.
+- [**Reciplease**](https://github.com/imick666/Recipllease): A recipes search tool with API call and coreData usage.
+- [**Ultimate Traveller Tool**](https://github.com/imick666/UltimateTravellerTool): A travel app with some fonctionnality I choosed and API call.
+- [**Project Asgard**](https://github.com/imick666/Project-Asgard): Personnal project. A Dog breeding manager.
 
 ## Thanks
 
