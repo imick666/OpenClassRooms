@@ -30,7 +30,7 @@ Here I listed all coded projects I did while this training.
 
 - [**New Warrior Quest**](https://github.com/imick666/NewWarriorQuest): A project where I discovered bases about Swift language.
 - [**Instagrid**](https://github.com/imick666/InstaGrid): A simple photo montage app using story board and ImagePicker.
-- **Count On Me**: A calculator I had to fix and write UnitTests.
+- [**Count On Me**](https://github.com/imick666/CountOnMe): A calculator I had to fix and write UnitTests.
 - [**Reciplease**](https://github.com/imick666/Recipllease): A recipes search tool with API call and coreData usage.
 - [**Ultimate Traveller Tool**](https://github.com/imick666/UltimateTravellerTool): A travel app with some fonctionnality I choosed and API call.
 - [**Project Asgard**](https://github.com/imick666/Project-Asgard): Personnal project. A Dog breeding manager.
